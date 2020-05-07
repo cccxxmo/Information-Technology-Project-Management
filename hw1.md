@@ -4,9 +4,9 @@
 - **Programs:** 项目集。项目集是一组相互关联且被协调管理的项目、子项目集和项目集活动，以便获得分别管理所无法获得的利益。
 - **Portfolio:** 项目组合。项目组合是指为实现战略目标而组合在一起管理的项目、项目集、子项目组合和运营工作。
 - **三者之间的关系：**  
-![](https://wx1.sbimg.cn/2020/05/07/1c14344667fd9cf1c.png)   
+![](https://ae01.alicdn.com/kf/H4166ef8b06ba41898ea0a8643c70d9e4X.jpg)   
 - **三者之间的区别：**  
-![](https://wx1.sbimg.cn/2020/05/07/2.png)   
+![](https://ae01.alicdn.com/kf/Hdb5126c77ffa4355be2406a4147e3130a.jpg)   
 - **对企业成功的贡献：**  
   - 指导企业的投资决策  
   - 利于选择项目集与项目的最佳组合方式，以达成战略目标  
@@ -34,7 +34,7 @@
 - **OPM：** 组织级项目管理（Organizational Project Management）。组织级项目管理是指立足于企业管理角度，从实现企业运营价值最大化的目标出发，考虑如何筹建企业级的项目管理体系，实现企业资源优化整合、提高项目成功率，并在项目立项和执行过程中及时把握市场和客户需求的变化，从而帮助公司快速调整经营目标和经营策略，最终实现企业的战略目标。
 
 - **projects, programs和portfolio与operations以及OPM之间的关系：**  
-![](https://wx1.sbimg.cn/2020/05/07/3.png)  
+![](https://ae01.alicdn.com/kf/H44ac5f0e285d476b9c6aa3c9df74f5c7Q.jpg)  
 - **实际案例：**      
   - **Projects**  
     - 为市场开发新的复方药  
