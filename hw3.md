@@ -1,6 +1,5 @@
-- 研究项目管理过程与领域知识及其关系
-
-  1. 了解CMMI项目管理过程-项目计划(PP)，使用知识域*过程矩阵对比项目规划过程组与CMMI-PP过程。  
+# 研究项目管理过程与领域知识及其关系
+## 使用知识域*过程矩阵对比项目规划过程组与CMMI-PP过程
 <table border=0 cellpadding=0 cellspacing=0 width=1085 style='border-collapse:
  collapse;table-layout:fixed;width:814pt'>
  <col width=116 style='mso-width-source:userset;mso-width-alt:4124;width:87pt'>
@@ -10,24 +9,24 @@
  <col width=188 style='mso-width-source:userset;mso-width-alt:6684;width:141pt'>
  <col width=64 span=3 style='width:48pt'>
  <tr height=18 style='height:13.8pt'>
-  <td rowspan=2 height=36 class=xl65 width=116 style='height:27.6pt;width:87pt'>知识领域</td>
-  <td rowspan=2 class=xl65 width=132 style='width:99pt'>项目规划过程组</td>
-  <td colspan=3 class=xl65 width=645 style='width:484pt'>CMMI项目管理过程-项目计划(PP)</td>
+  <td rowspan=2 height=36 class=xl65 width=116 style='height:27.6pt;width:87pt'><b>知识领域</b></td>
+  <td rowspan=2 class=xl65 width=132 style='width:99pt'><b>项目规划过程组</b></td>
+  <td colspan=3 class=xl65 width=645 style='width:484pt'><b>CMMI项目管理过程-项目计划(PP)</b></td>
  </tr>
  <tr height=18 style='height:13.8pt'>
-  <td height=18 class=xl65 style='height:13.8pt'>SG1: 建立估计计划</td>
-  <td class=xl65>SG2: 开发项目计划</td>
-  <td class=xl65>SG3: 获得对计划的承诺</td>
+  <td height=18 class=xl65 style='height:13.8pt'><b>SG1: 建立估计计划</b></td>
+  <td class=xl65><b>SG2: 开发项目计划</b></td>
+  <td class=xl65><b>SG3: 获得对计划的承诺</b></td>
  </tr>
  <tr height=18 style='height:13.8pt'>
-  <td height=18 class=xl65 style='height:13.8pt'>项目整合管理</td>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目整合管理</b></td>
   <td class=xl66>制定项目管理计划</td>
   <td class=xl66></td>
   <td class=xl66>SP2.7 建立项目计划</td>
   <td class=xl66></td>
  </tr>
  <tr height=74 style='height:55.2pt'>
-  <td height=74 class=xl65 style='height:55.2pt'>项目范围管理</td>
+  <td height=74 class=xl65 style='height:55.2pt'><b>项目范围管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划范围管理<br>
     收集需求<br>
     定义范围<br>
@@ -37,7 +36,7 @@
   <td class=xl66></td>
  </tr>
  <tr height=92 style='height:69.0pt'>
-  <td height=92 class=xl65 style='height:69.0pt'>项目进度管理</td>
+  <td height=92 class=xl65 style='height:69.0pt'><b>项目进度管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划进度管理<br>
     定义活动<br>
     排列活动顺序<br>
@@ -50,7 +49,7 @@
   <td class=xl66></td>
  </tr>
  <tr height=55 style='height:41.4pt'>
-  <td height=55 class=xl65 style='height:41.4pt'>项目成本管理</td>
+  <td height=55 class=xl65 style='height:41.4pt'><b>项目成本管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划成本管理<br>
     估算成本<br>
     制定预算</td>
@@ -61,14 +60,14 @@
   <td class=xl66></td>
  </tr>
  <tr height=18 style='height:13.8pt'>
-  <td height=18 class=xl65 style='height:13.8pt'>项目质量管理</td>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目质量管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划质量管理</td>
   <td class=xl66></td>
   <td class=xl66></td>
   <td class=xl66></td>
  </tr>
  <tr height=37 style='height:27.6pt'>
-  <td height=37 class=xl65 style='height:27.6pt'>项目资源管理</td>
+  <td height=37 class=xl65 style='height:27.6pt'><b>项目资源管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划资源管理<br>
     估算活动资源</td>
   <td class=xl66></td>
@@ -77,7 +76,7 @@
   <td class=xl66></td>
  </tr>
  <tr height=18 style='height:13.8pt'>
-  <td height=18 class=xl65 style='height:13.8pt'>项目沟通管理</td>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目沟通管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划沟通管理</td>
   <td class=xl66></td>
   <td class=xl66><span lang=en-us xml:lang=en-us style='box-sizing: border-box;
@@ -88,7 +87,7 @@
   <td class=xl66></td>
  </tr>
  <tr height=92 style='height:69.0pt'>
-  <td height=92 class=xl65 style='height:69.0pt'>项目风险管理</td>
+  <td height=92 class=xl65 style='height:69.0pt'><b>项目风险管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划风险管理<br>
     识别风险<br>
     实施定性风险分析<br>
@@ -99,14 +98,14 @@
   <td class=xl66></td>
  </tr>
  <tr height=18 style='height:13.8pt'>
-  <td height=18 class=xl65 style='height:13.8pt'>项目采购管理</td>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目采购管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划采购管理</td>
   <td class=xl66></td>
   <td class=xl66></td>
   <td class=xl66></td>
  </tr>
  <tr height=18 style='height:13.8pt'>
-  <td height=18 class=xl65 style='height:13.8pt'>项目相关方管理</td>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目相关方管理</b></td>
   <td class=xl67 width=132 style='width:99pt'>规划相关方参与</td>
   <td class=xl66></td>
   <td class=xl66><span lang=en-us xml:lang=en-us style='box-sizing: border-box;
@@ -117,7 +116,7 @@
   <td class=xl66></td>
  </tr>
  <tr height=55 style='height:41.4pt'>
-  <td height=55 class=xl65 style='height:41.4pt'>其他知识</td>
+  <td height=55 class=xl65 style='height:41.4pt'><b>其他知识</b></td>
   <td class=xl66></td>
   <td class=xl66><span lang=en-us xml:lang=en-us style='box-sizing: border-box;
   outline: 0px;overflow-wrap: break-word;font-variant-ligatures: normal;
@@ -141,4 +140,61 @@
   - 二者在具体步骤的执行顺序上有区别。如在行业过程PP中，建立WBS后就可以开始规模和工作量的估算，而在项目管理规划过程组中则要先定义活动并排序后才能开始。
   - 行业过程PP还包括**获得对计划的承诺**这一特定目标以及实现它的相关过程，这是项目管理规划过程组没有包含的。
   
-  2. 
+## 构建软件项目创新竞赛项目准备过程（组） 
+<table border=0 cellpadding=0 cellspacing=0 width=1278 style='border-collapse:
+ collapse;table-layout:fixed;width:959pt'>
+ <col width=116 style='mso-width-source:userset;mso-width-alt:4124;width:87pt'>
+ <col width=325 style='mso-width-source:userset;mso-width-alt:11548;width:244pt'>
+ <col width=219 style='mso-width-source:userset;mso-width-alt:7793;width:164pt'>
+ <col width=238 style='mso-width-source:userset;mso-width-alt:8476;width:179pt'>
+ <col width=188 style='mso-width-source:userset;mso-width-alt:6684;width:141pt'>
+ <col width=64 span=3 style='width:48pt'>
+ <tr height=18 style='height:13.8pt'>
+  <td height=18 class=xl65 width=116 style='height:13.8pt;width:87pt'><b>知识领域</b></td>
+  <td class=xl65 width=325 style='width:244pt'><b>项目准备过程（组）</b></td>
+ </tr>
+ <tr height=18 style='height:13.8pt'>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目整合管理</b></td>
+  <td class=xl66>制定项目管理过程</td>
+ </tr>
+ <tr height=55 style='height:41.4pt'>
+  <td height=55 class=xl65 style='height:41.4pt'><b>项目范围管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'>决定项目范围<br>
+    开发项目业务场景(Business Case)</td>
+ </tr>
+ <tr height=55 style='height:41.4pt'>
+  <td height=55 class=xl65 style='height:41.4pt'><b>项目进度管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'>估算项目持续时间<br>
+    决定项目时间约束<br>
+    确定项目是否分为多个子项目</td>
+ </tr>
+ <tr height=37 style='height:27.6pt'>
+  <td height=37 class=xl65 style='height:27.6pt'><b>项目成本管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'>估算总体成本<br>
+    决定项目成本约束</td>
+ </tr>
+ <tr height=55 style='height:41.4pt'>
+  <td height=55 class=xl65 style='height:41.4pt'><b>项目质量管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'>确定质量管理的目标（保证竞赛的含金量/扩大竞赛的知名度/...）</td>
+ </tr>
+ <tr height=18 style='height:13.8pt'>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目资源管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'>识别项目发起人</td>
+ </tr>
+ <tr height=18 style='height:13.8pt'>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目沟通管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'></td>
+ </tr>
+ <tr height=18 style='height:13.8pt'>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目风险管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'></td>
+ </tr>
+ <tr height=18 style='height:13.8pt'>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目采购管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'></td>
+ </tr>
+ <tr height=18 style='height:13.8pt'>
+  <td height=18 class=xl65 style='height:13.8pt'><b>项目相关方管理</b></td>
+  <td class=xl67 width=325 style='width:244pt'></td>
+ </tr>
+</table>
